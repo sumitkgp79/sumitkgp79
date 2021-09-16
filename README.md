@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sumitkgp79
 - 👀 I’m interested in Data Science who loves to solve complex problems with Data.
 - 🌱 I’m currently learning complex algorithms and it's implementations with end to end development lifecycle.
-- 💞️ I’m looking to collaborate on interesting ideas and works in fields of Data Science or anything which make our life easier. 
+- 💞️ I’m looking to collaborate on interesting ideas and projects in fields of Data Science or anything which make our life easier. 
 - 📫 How to reach me ...
 
 <!---
